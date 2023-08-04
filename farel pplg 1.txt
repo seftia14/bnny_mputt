@@ -1,0 +1,17 @@
+tutorial upload file ke github
+apa itu github?
+GitHub adalah salah satu platform wajib bagi developer karena menawarkan kemudahan untuk mengelola kode pada project. Platform ini cukup populer dengan lebih dari 56 juta pengguna dari seluruh dunia. 
+
+1. masuk ke chorme, lalu cari github, pilih yang paling atas
+ 
+2. buka website github yang paling atas, lalu sign up
+3. lalu masukan email, dan buat kata sandi dengan format yang di tentukan, bikin username, dan akun pun sudah di buat.
+4. lalu tekan logo tambah jika sudah pencet new ropulsory jika sudah masukan nama dan deskirpsi dari file tsb 
+ 
+jika sudah pilih server publik maupun privat (opsional) llau tekan add read me file lalu tekan create impolsury 
+ 
+
+jika sudah tekan addd file lalu pilih upload file jika sudah masukan file sesuai dengan file yang kalian inginkan 
+ 
+
+jika sudah jika sudah masukan nama lalu deskripsi file jika sudah tekan commit changes lalu semua nya telah selesai.
